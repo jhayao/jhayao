@@ -10,8 +10,8 @@ I am a software engineer with over three years of commercial experience designin
 
 - 🚀 **Personal Portfolio:** [jhayao.dev](https://jhayao.dev)
 - 💼 **Startup / SaaS:** [uselona.com](https://uselona.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/junrielhayao](https://linkedin.com/in/your-profile)
-- 📧 **Email:** [contact@jhayao.dev](mailto:contact@jhayao.dev)
+- 🔗 **LinkedIn:** [linkedin.com/in/junrielhayao](https://www.linkedin.com/in/junrielhayao/)
+- 📧 **Email:** [junriel.hayao@jhayao.dev](mailto:junriel.hayao@jhayao.dev)
 
 ---
 
