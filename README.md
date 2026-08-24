@@ -2,7 +2,16 @@
 
 ### Full-Stack Software Engineer & Backend Specialist
 
-I am a software engineer with extensive experience designing and scaling multi-tenant web applications, resilient backend architectures, and automated cloud infrastructure. Passionate about clean code, developer experience, and building reliable SaaS platforms.
+I am a software engineer with over three years of commercial experience designing and scaling multi-tenant web applications, resilient backend architectures, and automated cloud infrastructure. Passionate about clean code, developer experience, and building reliable SaaS platforms.
+
+---
+
+## 🌐 Portfolio & Links
+
+- 🚀 **Personal Portfolio:** [jhayao.dev](https://jhayao.dev)
+- 💼 **Startup / SaaS:** [uselona.com](https://uselona.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/junrielhayao](https://linkedin.com/in/your-profile)
+- 📧 **Email:** [contact@jhayao.dev](mailto:contact@jhayao.dev)
 
 ---
 
@@ -29,31 +38,31 @@ I am a software engineer with extensive experience designing and scaling multi-t
 
 ---
 
-## 💼 Featured Work & Architecture
+## 💼 Work Experience & Projects
 
-- **[Lona](https://uselona.com)** – Founder & Lead Architect
-  - Designed and built an enterprise multi-tenant loan management B2B SaaS platform.
-  - Implemented real-time transactional reliability, automated tenant segregation, and resilient background processing with Laravel Horizon.
-  - Engineered continuous WAL segment synchronization to Cloudflare R2 for point-in-time recovery (PITR) and disaster resilience.
-  - Configured zero-downtime deployment pipelines using GitHub Actions, Deployer, and automated server provisioning.
+### **Founder & Lead Architect** | [Lona](https://uselona.com)
+*Multi-tenant Loan Management SaaS*
+- Architected and built an enterprise multi-tenant loan management B2B SaaS platform from scratch.
+- Implemented real-time transactional reliability, automated tenant isolation, and resilient background processing with Laravel Horizon.
+- Engineered continuous PostgreSQL Write-Ahead Log (WAL) segment synchronization to Cloudflare R2 for point-in-time recovery (PITR) and disaster resilience.
+- Designed zero-downtime CI/CD deployment pipelines using GitHub Actions, Deployer, and automated server provisioning.
 
-- **Enterprise Backend Engineering**
-  - Production experience across enterprise-scale systems and backend tooling (ex-Oracle).
-  - Proficient in domain-driven design, API design, database query optimization, and latency mitigation across distributed nodes.
+### **Software Engineer** | Enterprise Systems *(ex-Oracle)*
+*Backend & Enterprise Architecture*
+- Contributed to large-scale enterprise backend infrastructure, service stability, and data integrity across distributed systems.
+- Applied domain-driven design, RESTful API architecture, and database query optimization to reduce cross-node latency and optimize resource consumption.
 
 ---
 
 ## 📊 GitHub & Activity Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhayao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhayao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 📬 Connect & Collaborate
 
-- 🌐 **Website / Startup:** [uselona.com](https://uselona.com)
-- 💼 **LinkedIn:** [linkedin.com/in/junrielhayao](https://linkedin.com/in/your-profile)
-- 📧 **Email:** [junrielhayao@example.com](mailto:junrielhayao@example.com)
+Feel free to explore my full project showcase and blog at [jhayao.dev](https://jhayao.dev) or reach out for engineering collaborations.
